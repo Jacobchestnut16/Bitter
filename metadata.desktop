@@ -1,0 +1,17 @@
+[DesktopEntry]
+Name=Bitter
+Comment=Bitter is sweeter than Sweet.
+
+X-KDE-PluginInfo-Author=Jacob Chestnut
+X-KDE-PluginInfo-Email=jchestnut@chestnutsprogramming.com
+X-KDE-PluginInfo-Name=Bitter
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-License=cc0
+
+X-KDE-PluginInfo-API=6.0
+
+[ContrastEffect]
+enabled=true
+contrast=0.25
+intensity=1.1
+saturation=5
